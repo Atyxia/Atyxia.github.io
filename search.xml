@@ -31,16 +31,16 @@
   
     
     <entry>
-      <title><![CDATA[读书]]></title>
-      <url>/reading/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[关于]]></title>
       <url>/about/index.html</url>
       <content type="html"><![CDATA[<p>  Everything….</p>
 ]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[读书]]></title>
+      <url>/reading/index.html</url>
+      <content type="html"></content>
     </entry>
     
   
